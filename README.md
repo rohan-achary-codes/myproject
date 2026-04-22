@@ -1,2 +1,2 @@
 # myproject
-This is my first project.&lt;br>Author : Rohan Achary
+This is my first project.<br>Author : Rohan Achary
